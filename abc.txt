@@ -1,0 +1,2 @@
+Today is Sunday. Yesterday we had a lot of rain.
+print("Hello World")
